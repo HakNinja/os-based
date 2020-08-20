@@ -11,6 +11,7 @@ Program help to open vlc, nano editor, firefox browser
 
 # run as :
 in windows: python OSmodule.py 
+#
 or
 in linux: python3 OSmodule.py 
 

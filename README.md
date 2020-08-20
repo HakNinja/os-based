@@ -5,14 +5,14 @@ Problem is :- "Convert the OS based program into a menu driven program using Pyt
 Program help to open vlc, nano editor, firefox browser
 
 # requirements :
-  Mosty work with linux distribution,
-  make sure that program like vlc, nano and firefox must be installed in your system 
-  python 3 and greater version
+  -Mosty work with linux distribution,
+  -make sure that program like vlc, nano and firefox must be installed in your system 
+  -python 3 and greater version
 
 # run as :
 in windows: python OSmodule.py 
-  # or
+or
 in linux: python3 OSmodule.py 
 
-author: HakNinja 
+# author: HakNinja 
   aka Deepak kumar
